@@ -1,9 +1,10 @@
 * {
     margin: 0 auto;
     padding: 0px;
+    background-color: black;
 }
 
-/* datos personales */
+                                                /* datos personales */
 #datos {
     width: 29%;
     /* border: 1px solid black; */
@@ -48,7 +49,7 @@
     margin-left: 20px;
 }
 
-/* datos cv */
+                                                /* datos cv */
 #cv {
     width: 70%;
     /* border: 1px solid black; */
